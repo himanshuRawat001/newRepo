@@ -1,2 +1,3 @@
 # newRepo
-my first repository
+my first repository 
+Author --> Himanshu rawat
